@@ -5,5 +5,10 @@ public class AmazonPage {
     //html for search button
 
     //html for deals page
-    //team memebers line
+
+    //html for cart page
+
+    // html one more
+
+
 }
